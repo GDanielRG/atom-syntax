@@ -1,5 +1,5 @@
 {
-  "name": "atom-syntax",
+  "name": "harmony-syntax",
   "theme": "syntax",
   "version": "0.1.0",
   "description": "Atom syntax theme",
@@ -7,7 +7,7 @@
     "adaptive",
     "syntax"
   ],
-  "repository": "https://github.com/GDanielRG/atom-syntax",
+  "repository": "https://github.com/GDanielRG/harmony-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

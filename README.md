@@ -1,11 +1,11 @@
-## One Dark Syntax theme
+## Material UI
 
-![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
+This theme converts Atom into a good looking and minimal editor without unnecessary clutter. Although it was inspired by Google's Material design, it's not completely based on the same. There are some places in which I've decided to make some decisions by my own to make the design look less haptic, and then Daniel modified it even more.
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
-
-There is also a matching [UI theme](https://atom.io/themes/one-dark-ui).
+<a href="https://i.gyazo.com/728b76a7b48cb23fe937db37a42bf81a.png" target="_blank">
+  <img src="https://i.gyazo.com/728b76a7b48cb23fe937db37a42bf81a.png">
+</a>
 
 ### Install
 
-This theme is installed by default with Atom and can be activated by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
+Clone this repo inside the packages directory of Atom and select the Theme Harmony
