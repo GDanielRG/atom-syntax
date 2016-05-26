@@ -1,8 +1,8 @@
 {
   "name": "harmony-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "Harmony theme for Atom inspired in Google's Material Design complements with https://github.com/GDanielRG/harmony-ui",
+  "version": "1.0.0",
+  "description": "Harmony theme for Atom inspired by Google's Material Design complements with https://github.com/GDanielRG/harmony-ui",
   "keywords": [
     "adaptive",
     "syntax"
